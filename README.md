@@ -24,7 +24,7 @@ Feel free to explore the individual project folders. Each folder's `README.md` w
 
 | Project Title | Description and Repo link |
 |----------|----------|
-| Screenshot App | A lightweight and user-friendly desktop application built with Python and Tkinter. This tool allows users to quickly capture and save screenshots of their screen with a single click, providing instant visual documentation. [Repo Link](https://github.com/hrnrxb/HRN_sample_projects/tree/main/screen%20shot%20app%20with%20python) |
+| [Screenshot App](https://github.com/hrnrxb/HRN_sample_projects/tree/main/screen%20shot%20app%20with%20python) | A lightweight and user-friendly desktop application built with Python and Tkinter. This tool allows users to quickly capture and save screenshots of their screen with a single click, providing instant visual documentation. |
 | Row 2 Col 1 | Row 2 Col 2 |
 | Row 3 Col 1 | Row 1 Col 2 |
 | Row 4 Col 1 | Row 2 Col 2 |
