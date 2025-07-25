@@ -26,7 +26,7 @@ Feel free to explore the individual project folders. Each folder's `README.md` w
 |----------|----------|
 | [Screenshot App](https://github.com/hrnrxb/HRN_sample_projects/tree/main/screen%20shot%20app%20with%20python) | A lightweight and user-friendly desktop application built with Python and Tkinter. This tool allows users to quickly capture and save screenshots of their screen with a single click, providing instant visual documentation. |
 | [Semmelweis Handwashing](https://github.com/hrnrxb/HRN_sample_projects/tree/main/Semmelweis%20Handwashing%20Project) | This project explores the impact of hand hygiene on infection rates, inspired by Ignaz Semmelweis's influential research. We leverage data analysis and visualization to enhance handwashing practices in healthcare settings. 🏥 |
-| Row 3 Col 1 | Row 1 Col 2 |
+| [Password Generator](https://github.com/hrnrxb/HRN_sample_projects/tree/main/password%20generator) | This is a simple, yet robust, desktop application built with Python and Tkinter. It allows users to generate strong, random passwords based on customizable criteria such as length and character types (uppercase, lowercase, digits, punctuation). The generated password can be easily copied to the clipboard. This project is ideal for understanding basic GUI development, user input validation, and secure password generation principles in Python. |
 | Row 4 Col 1 | Row 2 Col 2 |
 | Row 5 Col 1 | Row 1 Col 2 |
 | Row 6 Col 1 | Row 2 Col 2 |
