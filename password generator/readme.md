@@ -60,6 +60,6 @@ Before you begin, ensure you have Python installed. This project is tested with 
 Once the dependencies are installed, you can run the application:
 
 ```bash
-python password_generator_app.py # Or whatever your main script is named, e.g., main.pyb
+python passwordgen.py
 ```
 A Tkinter window titled "Password Generator" will appear, allowing you to generate and manage passwords.
